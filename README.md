@@ -52,7 +52,7 @@ Of course, no one will serve all features since your needs may be different. So 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING START -->
 ## Getting Started
 
 ### Prerequisites
@@ -144,7 +144,7 @@ Don't forget to give the project a star! Thanks again!
  - @apk-parser https://github.com/hsiafan/apk-parser
  - @io.socket https://socket.io
 
-<!-- LICENSE -->
+<!-- LICENSED-->
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
